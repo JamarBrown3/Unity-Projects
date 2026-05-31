@@ -1,0 +1,13 @@
+{
+    "name": "Thanksgiving",
+    "time": {
+        "Year": 2018,
+        "Month": 11,
+        "Day": 27,
+        "Hour": 19,
+        "Minute": 30
+    },
+    "eventType": "Dinner",
+    "eventDescription": "A family get together.",
+    "solved": true
+}
